@@ -16,6 +16,8 @@ int main(int argc, const char *argv[]) {
         std::cerr << "Invalid syntax: pi_taylor <steps>" << std::endl;
         exit(1);
 
+         std::cout << "esto es una prueba"<< std::endl;
+
     }
 
     size_t steps = std::stoll(argv[1]);
