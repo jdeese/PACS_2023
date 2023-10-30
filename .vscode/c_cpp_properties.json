@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jdeese/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jdeese/catkin_ws/src/eigen_checks/include/**",
+        "/home/jdeese/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/jdeese/catkin_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/jdeese/catkin_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/jdeese/catkin_ws/src/mav_trajectory_generation/mav_trajectory_generation/include/**",
+        "/home/jdeese/catkin_ws/src/mav_trajectory_generation/mav_trajectory_generation_ros/include/**",
+        "/home/jdeese/catkin_ws/src/mav_trajectory_generation/mav_visualization/include/**",
+        "/home/jdeese/catkin_ws/src/mavros/mavros/include/**",
+        "/home/jdeese/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/jdeese/catkin_ws/src/minkindr/minkindr/include/**",
+        "/home/jdeese/catkin_ws/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/jdeese/catkin_ws/src/nlopt/include/**",
+        "/home/jdeese/catkin_ws/src/numpy_eigen/include/**",
+        "/home/jdeese/catkin_ws/src/squaretyrion/include/**",
+        "/home/jdeese/catkin_ws/src/mavros/test_mavros/include/**",
+        "/home/jdeese/catkin_ws/src/tf02_ros/tf02_ros/include/**",
+        "/home/jdeese/catkin_ws/src/voxblox/voxblox/include/**",
+        "/home/jdeese/catkin_ws/src/voxblox/voxblox_ros/include/**",
+        "/home/jdeese/catkin_ws/src/voxblox/voxblox_rviz_plugin/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

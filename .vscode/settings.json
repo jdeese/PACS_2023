@@ -54,5 +54,13 @@
         "numeric": "cpp",
         "optional": "cpp",
         "thread": "cpp"
-    }
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/jdeese/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jdeese/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
 }
